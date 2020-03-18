@@ -1,7 +1,7 @@
 import numpy as np
 
 array = np.array([[1,2,3],[4,5,6]])
-
+#github
 print(array)
 print('number of dimension:', array.ndim)
 print('shape:', array.shape)
